@@ -1,42 +1,24 @@
-# MemoryStats
+# MemoryStats-Nodejs
 
-Simple JavaScript utility for monitoring memory usage and displaying system statistics.
-
-## About
-
-This project was created as a JavaScript learning exercise to collect and display memory information from the operating system.
+Simple Node.js application that monitors memory usage and displays system statistics in real time.
 
 ## Features
 
-- Displays available memory
+- Displays free memory
 - Displays total memory
 - Calculates memory usage percentage
-- Outputs data in a console table
+- Updates information every second
 
 ## Technologies
 
 - JavaScript
+- Node.js
+- OS Module
 
 ## Example Output
 
-```text
------- PC Stats ------
-
-(index)   Values
-free      836 MB
-total     3981 MB
-usage     20%
-```
-
-## Learning Goals
-
-- JavaScript fundamentals
-- Working with objects
-- Console output formatting
-- System information analysis
+![Memory Stats Output](img/memory-stats-output.png)
 
 ## Author
 
 Jorge Eduardo Rodrigues
-
-![ps stats image](/img/memory-stats-output.png)
