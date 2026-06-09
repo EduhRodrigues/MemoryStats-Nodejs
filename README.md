@@ -39,4 +39,4 @@ usage     20%
 
 Jorge Eduardo Rodrigues
 
-![ps stats image](/img/PC_Stats_image.png)
+![ps stats image](/img/memory-stats-output.png)
